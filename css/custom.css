@@ -9,8 +9,8 @@
 
 
 .navbar-default {
-    background-color: #EB593C;
-    border-color: #EB593C;
+    background-color: #0185a4;
+    border-color: #0185a4;
 }
 
 .navbar-default a {
@@ -18,13 +18,13 @@
 }
 
 #about a {
-  color: #EB593C
+  color: #0185a4
 }
 
 
 .lead {
       font-size: 20px !important;
-    line-height: 1.58 !important;
+    line-height: 1.8 !important;
     font-family: Georgia;
 }
 
