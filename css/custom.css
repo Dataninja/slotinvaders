@@ -31,3 +31,15 @@
 .navbar-default .navbar-toggle .icon-bar {
     background-color: white;
   }
+
+  .plight {
+    font-weight:100;
+  }
+
+  footer {
+    background-color:#333;
+    color:white;
+  }
+.list-inline>li {
+      padding: 25px;
+}
